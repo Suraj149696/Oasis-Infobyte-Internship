@@ -24,4 +24,16 @@ The project offers an opportunity to gain practical experience in data cleaning,
 
 
 
+Task 3: Sentiment Analysis
+
+The goal of this task is to develop a sentiment analysis model that can accurately classify the sentiment of text data, providing insights into public opinion, customer feedback, and social media trends. The process involves:
+
+1.Sentiment Analysis: Analyzing text data to classify emotions as positive, negative, or neutral.
+2.Natural Language Processing (NLP): Applying NLP techniques and models to process and understand human language.
+3.Feature Engineering: Extracting relevant features from the text data to improve the model's performance.
+4.Data Visualization: Using effective visualizations to present sentiment analysis results for clear interpretation.
+
+The project aims to develop a robust sentiment classification model that provides actionable insights from textual data, enhancing decision-making based on customer and public sentiment.
+
+
 

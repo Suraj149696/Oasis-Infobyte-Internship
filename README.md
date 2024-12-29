@@ -3,7 +3,7 @@
 Welcome to My Data Analysis Internship Journey! 🚀
 
 
-Task 1: xploratory Data Analysis (EDA) on Retail Sales Data
+Task 1: Exploratory Data Analysis (EDA) on Retail Sales Data
 
 
 In this project, the goal is to perform Exploratory Data Analysis (EDA) on a retail sales dataset to uncover patterns and insights that can help the business make informed decisions. The project involves several key tasks:

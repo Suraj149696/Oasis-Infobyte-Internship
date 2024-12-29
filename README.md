@@ -23,14 +23,34 @@ In this project, the goal is to perform Exploratory Data Analysis (EDA) on a ret
 The project offers an opportunity to gain practical experience in data cleaning, statistical analysis, and visualization, while developing skills for interpreting and presenting data-driven insights.
 
 
+Task 2:  Fraud Detection
+
+
+The objective of this task is to detect and prevent fraudulent activities within financial transactions using advanced analytics and machine learning techniques. The focus is on identifying deceptive behavior, distinguishing between legitimate and fraudulent actions. Key aspects include:
+
+1.Anomaly Detection: Identifying unusual patterns or deviations from normal behavior in transaction data.
+
+2.Machine Learning Models: Applying algorithms like Logistic Regression to predict and classify fraudulent transactions.
+
+3.Feature Engineering: Selecting and transforming relevant features to improve the accuracy of fraud detection models.
+
+4.Real-time Monitoring: Implementing systems to detect and respond to fraudulent activities as they occur, ensuring quick intervention.
+
+5.Scalability: Designing fraud detection systems that can handle large volumes of transactions efficiently, ensuring real-time accuracy in detecting fraud.
+
+The project aims to develop a robust fraud detection system capable of minimizing risks and ensuring the integrity of financial transactions.
+
 
 Task 3: Sentiment Analysis
 
 The goal of this task is to develop a sentiment analysis model that can accurately classify the sentiment of text data, providing insights into public opinion, customer feedback, and social media trends. The process involves:
 
 1.Sentiment Analysis: Analyzing text data to classify emotions as positive, negative, or neutral.
+
 2.Natural Language Processing (NLP): Applying NLP techniques and models to process and understand human language.
+
 3.Feature Engineering: Extracting relevant features from the text data to improve the model's performance.
+
 4.Data Visualization: Using effective visualizations to present sentiment analysis results for clear interpretation.
 
 The project aims to develop a robust sentiment classification model that provides actionable insights from textual data, enhancing decision-making based on customer and public sentiment.
